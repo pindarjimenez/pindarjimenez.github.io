@@ -18,24 +18,24 @@
     "author": "Pindar",
     "license": "ISC",
     "dependencies": {
-        "bootstrap": "^4.4.1",
+        "bootstrap": "^4.6.2",
         "font-awesome": "^4.7.0",
-        "jquery": "^3.4.1"
+        "jquery": "^3.7.1"
     },
     "devDependencies": {
-        "autoprefixer": "^9.7.6",
-        "browser-sync": "^2.26.3",
-        "browser-sync-webpack-plugin": "^2.0.1",
+        "autoprefixer": "^9.8.8",
+        "browser-sync": "^2.29.3",
+        "browser-sync-webpack-plugin": "^2.3.0",
         "clean-css-cli": "^4.3.0",
-        "cross-env": "^7.0.2",
-        "laravel-mix": "^5.0.4",
-        "node-sass": "^4.13.1",
+        "cross-env": "^7.0.3",
+        "laravel-mix": "^5.0.9",
+        "node-sass": "^4.14.1",
         "popper.js": "^1.12",
-        "postcss-cli": "^7.1.0",
+        "postcss-cli": "^7.1.2",
         "postcss-loader": "^2.1.4",
-        "resolve-url-loader": "^3.1.0",
+        "resolve-url-loader": "^3.1.5",
         "sass-loader": "^8.0.2",
-        "vue-template-compiler": "^2.6.11"
+        "vue-template-compiler": "^2.7.16"
     },
     "browserslist": {
         "production": [
